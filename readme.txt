@@ -1,3 +1,3 @@
 Git is a distributed free software.
 Git is a free software.
-the first modify.
+Git has a mutable index called stage.
